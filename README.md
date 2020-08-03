@@ -20,7 +20,7 @@
 
 ### I am [Mehul Patel](https://github.com/rowdymehul/about) 👨🏻‍💻
 
-##### Looking for the next big thing to work with. 🚀
+#### Looking for the next big thing to work with. 🚀
 
 - An Open Source Advocate
 - AWS & GCP Certified Solutions Architect.
