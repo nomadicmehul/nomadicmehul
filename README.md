@@ -20,8 +20,6 @@
 
 ## I am [Mehul Patel](https://github.com/rowdymehul/about) 👨🏻‍💻
 
-### Looking for the next big thing to work with 🚀
-
 - An Open Source Advocate
 - AWS & GCP Certified Solutions Architect.
 - Reps Mentor at [Mozilla Reps](https://twitter.com/mozillareps)
@@ -32,6 +30,8 @@
 - Tech Writer at [TechnoPanti](medium.com/technopanti)
 - Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
 - I'm currently looking for opportunities. I love to learn and contribute in ways I can.
+
+### Looking for the next big thing to work with 🚀
 
 <!--
 **rowdymehul/rowdymehul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
