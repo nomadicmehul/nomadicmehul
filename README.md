@@ -18,9 +18,9 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am [Mehul Patel](https://github.com/rowdymehul/about) 👨🏻‍💻
+## I am [Mehul Patel](https://github.com/rowdymehul/about) 👨🏻‍💻
 
-#### Looking for the next big thing to work with. 🚀
+### Looking for the next big thing to work with. 🚀
 
 - An Open Source Advocate
 - AWS & GCP Certified Solutions Architect.
