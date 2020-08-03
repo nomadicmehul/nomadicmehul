@@ -15,6 +15,9 @@
 <a href="https://t.me/rowdymehul">
   <img align="left" alt="Mehul's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="https://www.instagram.com/rowdymehul/">
+  <img align="left" alt="Mehul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <a href="https://www.facebook.com/mehulpofficial">
   <img align="left" alt="Mehul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
