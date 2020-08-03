@@ -18,7 +18,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Mehul Patel
+### I am [Mehul Patel](https://github.com/rowdymehul/about) 👨🏻‍💻🚀
 - An Open Source Advocate
 - AWS & GCP Certified Solutions Architect.
 - Reps Mentor at [Mozilla Reps](https://twitter.com/mozillareps)
