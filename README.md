@@ -20,9 +20,14 @@
 
 ### I am Mehul Patel
 - An Open Source Advocate
-- Reps Mentor at [Mozilla Reps](https://twitter.com/mozillareps)
-- [Auth0](https://twitter.com/auth0) Ambassador
 - AWS & GCP Certified Solutions Architect.
+- Reps Mentor at [Mozilla Reps](https://twitter.com/mozillareps)
+- [Mozilla Reps Resource](https://wiki.mozilla.org/Reps/Resources)
+- Manager at [Mozilla Pontoon](https://pontoon.mozilla.org/gu-IN/)
+- [Auth0](https://twitter.com/auth0) Ambassador
+- Founder at [Internauts Foundation](https://twitter.com/Internautsorg)
+- Tech Writer at [TechnoPanti](medium.com/technopanti)
+- Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
 - I'm currently looking for opportunities. I love to learn and contribute in ways I can.
 
 <!--
