@@ -31,6 +31,9 @@
 - Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
 - I'm currently looking for opportunities. I love to learn and contribute in ways I can.
 
+## Some Statistics About Me
+![Mehul's github stats](https://github-readme-stats.vercel.app/api?username=rowdymehul&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+
 ### Looking for the next big thing to work with 🚀
 
 <!--
