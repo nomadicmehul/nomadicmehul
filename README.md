@@ -35,7 +35,7 @@
 - Founder at [Internauts Foundation](https://twitter.com/Internautsorg)
 - Tech Writer at [TechnoPanti](medium.com/technopanti)
 - Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
-- I'm currently looking for opportunities. I love to learn and contribute in ways I can.
+- I'm currently looking for opportunities. I love to learn and contribute in all ways I can.
 
 ### Looking for the next big thing to work with 🚀
 
