@@ -24,7 +24,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-## I am [Mehul Patel](https://github.com/rowdymehul/about) 👨🏻‍💻
+## I am [Mehul Patel](https://github.com/nomadicmehul/about) 👨🏻‍💻
 
 - An Open Source Advocate
 - AWS & GCP Certified Solutions Architect.
@@ -40,7 +40,7 @@
 ### Looking for the next big thing to work with 🚀
 
 ## Some Statistics About Me
-![Mehul's github stats](https://github-readme-stats.vercel.app/api?username=rowdymehul&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+![Mehul's github stats](https://github-readme-stats.vercel.app/api?username=nomadicmehul&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
 <!--
 **rowdymehul/rowdymehul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
