@@ -28,11 +28,11 @@
 
 - An Open Source Advocate
 - AWS & GCP Certified Solutions Architect.
-- [Mozilla](https://www.mozilla.org/en-US/about/leadership/reps-council/) Reps Council
+- [Mozilla Reps Council](https://www.mozilla.org/en-US/about/leadership/reps-council/) 
 - [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
 - [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
-- Reps Mentor at [Mozilla Reps](https://twitter.com/mozillareps)
-- [Mozilla Reps Resource](https://wiki.mozilla.org/Reps/Resources)
+- Reps Mentor at [Mozilla Reps]([https://twitter.com/mozillareps](https://community.mozilla.org/en/groups/mozilla-reps/))
+- [Mozilla Reps Resource](https://community.mozilla.org/de/groups/mozilla-reps-resources/))
 - Manager at [Mozilla Pontoon](https://pontoon.mozilla.org/gu-IN/)
 - Founder at [Internauts Foundation](https://twitter.com/Internautsorg)
 - Tech Writer at [TechnoPanti](medium.com/technopanti)
