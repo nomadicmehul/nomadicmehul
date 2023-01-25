@@ -30,10 +30,10 @@
 - AWS & GCP Certified Solutions Architect.
 - [Mozilla](https://www.mozilla.org/en-US/about/leadership/reps-council/) Reps Council
 - [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
+- [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
 - Reps Mentor at [Mozilla Reps](https://twitter.com/mozillareps)
 - [Mozilla Reps Resource](https://wiki.mozilla.org/Reps/Resources)
 - Manager at [Mozilla Pontoon](https://pontoon.mozilla.org/gu-IN/)
-- [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
 - Founder at [Internauts Foundation](https://twitter.com/Internautsorg)
 - Tech Writer at [TechnoPanti](medium.com/technopanti)
 - Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
@@ -45,7 +45,7 @@
 ![Mehul's github stats](https://github-readme-stats.vercel.app/api?username=nomadicmehul&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
 <!--
-**rowdymehul/rowdymehul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nomadicmehul/nomadicmehul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
