@@ -27,7 +27,7 @@
 ## I am [Mehul Patel](https://github.com/nomadicmehul/about) 👨🏻‍💻
 
 - An Open Source Advocate 🥑
-- AWS & GCP Certified Solutions Architect.
+- 🎙️ Podcast Host - [TACOS - Talking About Community & Open Source](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
 - [Mozilla Reps Council](https://www.mozilla.org/en-US/about/leadership/reps-council/) 
 - [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
 - [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
