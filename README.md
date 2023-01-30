@@ -22,7 +22,9 @@
   <img align="left" alt="Mehul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/8klMBnrnd6mrsWML10/giphy.gif" />
+
 
 ## I am [Mehul Patel](https://github.com/nomadicmehul/about) 👨🏻‍💻
 
