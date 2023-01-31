@@ -43,7 +43,7 @@
 - Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
 - I'm currently looking for opportunities. I love to learn and contribute in all ways I can.
 
-
+<br />
 
 ### Looking for the next big thing to work with 🚀
 
