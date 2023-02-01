@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/nomadicmehul/">
   <img align="left" alt="Mehul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/nomadicmehul">
-  <img align="left" alt="Mehul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://www.youtube.com/c/NomadicMehul">
+  <img align="left" alt="Mehul's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
 <a href="https://medium.com/@nomadicmehul">
   <img align="left" alt="Mehul's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -21,8 +21,8 @@
 <a href="https://www.facebook.com/nomadicmehul">
   <img align="left" alt="Mehul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/c/NomadicMehul">
-  <img align="left" alt="Mehul's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+<a href="https://github.com/nomadicmehul">
+  <img align="left" alt="Mehul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
 
