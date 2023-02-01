@@ -12,7 +12,7 @@
 <a href="https://medium.com/@nomadicmehul">
   <img align="left" alt="Mehul's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://t.me/rowdymehul">
+<a href="https://t.me/nomadicmehul">
   <img align="left" alt="Mehul's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/nomadicmehul/">
@@ -20,6 +20,9 @@
 </a>
 <a href="https://www.facebook.com/nomadicmehul">
   <img align="left" alt="Mehul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/c/NomadicMehul">
+  <img align="left" alt="Mehul's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
 <br />
 
