@@ -40,9 +40,10 @@
 - [Mozilla Reps Resource](https://community.mozilla.org/de/groups/mozilla-reps-resources/)
 - Manager at [Mozilla Pontoon](https://pontoon.mozilla.org/gu-IN/)
 - Founder at [Open Source Weekend](https://twitter.com/OSWeekend)
-- Founder at [Internauts Foundation](https://twitter.com/Internautsorg)
+- Organizer at [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/)
+- Organizer at [Cloud Native Gandhinagar](https://community.cncf.io/cloud-native-gandhinagar/)
+- Organizer at [Gandhinagar Hashicorp User Group](https://www.meetup.com/gandhinagar-hashicorp-user-group/)
 - Organizer at [Gujarat Identity and Security Meetup](https://www.meetup.com/gujarat-identity-and-security-meetup/)
-- Tech Writer at [TechnoPanti](medium.com/technopanti)
 - Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
 - I'm currently looking for opportunities. I love to learn and contribute in all ways I can.
 
