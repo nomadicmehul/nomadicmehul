@@ -33,7 +33,7 @@
 
 - An Open Source Advocate 🥑
 - 🎙️ Podcast Host - [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
-- Founder at [CloudCaptaion](https://github.com/nomadicmehul/CloudCaptain) Community Project
+- Founder at [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) Community Project
 - Founder at [Open Source Weekend](https://twitter.com/OSWeekend)
 - Organizer at [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/)
 - Organizer at [Cloud Native Gandhinagar](https://community.cncf.io/cloud-native-gandhinagar/)
