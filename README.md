@@ -33,18 +33,19 @@
 
 - An Open Source Advocate 🥑
 - 🎙️ Podcast Host - [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
-- [Mozilla Reps Council](https://www.mozilla.org/en-US/about/leadership/reps-council/) 
-- [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
-- [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
-- [Mozilla Reps Mentor](https://community.mozilla.org/de/groups/mozilla-reps-mentors/)
-- [Mozilla Reps Resource](https://community.mozilla.org/de/groups/mozilla-reps-resources/)
-- Manager at [Mozilla Pontoon](https://pontoon.mozilla.org/gu-IN/)
+- Founder at [CloudCaptaion](https://github.com/nomadicmehul/CloudCaptain) Community Project
 - Founder at [Open Source Weekend](https://twitter.com/OSWeekend)
 - Organizer at [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/)
 - Organizer at [Cloud Native Gandhinagar](https://community.cncf.io/cloud-native-gandhinagar/)
-- Organizer at [Gandhinagar Hashicorp User Group](https://www.meetup.com/gandhinagar-hashicorp-user-group/)
-- Organizer at [Gujarat Identity and Security Meetup](https://www.meetup.com/gujarat-identity-and-security-meetup/)
-- Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
+- [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
+- **Ex** [Mozilla Reps Council](https://www.mozilla.org/en-US/about/leadership/reps-council/) 
+- **Ex** [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
+- **Ex** [Mozilla Reps Mentor](https://community.mozilla.org/de/groups/mozilla-reps-mentors/)
+- **Ex** [Mozilla Reps Resource](https://community.mozilla.org/de/groups/mozilla-reps-resources/)
+- **Ex** Manager at [Mozilla Pontoon](https://pontoon.mozilla.org/gu-IN/)
+- **Ex** Organizer at [GDG Nashik](https://gdg.community.dev/gdg-nashik/)
+- **Ex** Organizer at [Gujarat Identity and Security Meetup](https://www.meetup.com/gujarat-identity-and-security-meetup/)
+- **Ex** Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
 - I'm currently looking for opportunities. I love to learn and contribute in all ways I can.
 
 <br />
