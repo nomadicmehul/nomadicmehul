@@ -33,12 +33,13 @@
 
 - An Open Source Advocate 🥑
 - 🎙️ Podcast Host - [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
+- [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
+- [Docker Captain](https://www.docker.com/captains/mehul-patel/) 
 - Founder at [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) Community Project
 - Founder at [Open Source Weekend](https://twitter.com/OSWeekend)
 - Organizer at [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/)
 - Organizer at [Cloud Native Gandhinagar](https://community.cncf.io/cloud-native-gandhinagar/)
 - Organizer at [HashiCorp User Group Gandhinagar](https://www.meetup.com/gandhinagar-hashicorp-user-group/)
-- [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
 - **Ex** [Mozilla Reps Council](https://www.mozilla.org/en-US/about/leadership/reps-council/) 
 - **Ex** [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
 - **Ex** [Mozilla Reps Mentor](https://community.mozilla.org/de/groups/mozilla-reps-mentors/)
