@@ -46,9 +46,8 @@
 - I'm currently looking for opportunities. I love to learn and contribute in all ways I can.
 
 <br />
-<br />
 
-### 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
 
 <br />
 
