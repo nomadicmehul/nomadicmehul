@@ -45,8 +45,11 @@
 - **Ex** [Mozilla Reps Mentor](https://community.mozilla.org/de/groups/mozilla-reps-mentors/)
 - I'm currently looking for opportunities. I love to learn and contribute in all ways I can.
 
+<br />
+<br />
 
 ### 🛠️ Languages and Tools:
+
 <br />
 
 <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
