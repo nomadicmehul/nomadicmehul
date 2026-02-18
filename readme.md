@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior DevOps Engineer** based in Berlin with **500+ technical sessions** delivered across **25+ countries**. I specialize in cloud-native infrastructure, containerization, and AI-powered DevOps workflows — and I love turning complex systems into compelling stories on stage and in code.
+I'm a **Senior DevOps Engineer** based in Berlin with **500+ technical sessions** delivered across **25+ countries**. I specialize in cloud-native infrastructure, containerization and AI-powered DevOps workflows and I love turning complex systems into compelling stories on stage and in code.
 
 - 🐳 **Docker Captain** — one of ~150 globally recognized Docker experts
 - ☁️ **Google Developer Expert** — Google Cloud
@@ -28,7 +28,7 @@ I'm a **Senior DevOps Engineer** based in Berlin with **500+ technical sessions*
 - 🌐 Founder — [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) & [Open Source Weekend](https://twitter.com/OSWeekend)
 - 🏙️ Community Organizer — [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/) · [CNCF Cloud Native Gandhinagar](https://community.cncf.io/cloud-native-gandhinagar/) · [HashiCorp UG Gandhinagar](https://www.meetup.com/gandhinagar-hashicorp-user-group/)
 
-> *"From Docker containers to Vertex AI — I help teams ship faster, safer, and smarter."*
+> *"From Docker containers to Vertex AI — I help teams ship faster, safer and smarter."*
 
 ---
 
