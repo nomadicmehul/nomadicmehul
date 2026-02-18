@@ -1,94 +1,98 @@
-## Hello there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<div align="center">
 
-<a href="https://twitter.com/nomadicmehul">
-  <img align="left" alt="Mehul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/nomadicmehul/">
-  <img align="left" alt="Mehul's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.youtube.com/c/NomadicMehul">
-  <img align="left" alt="Mehul's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
-</a>
-<a href="https://medium.com/@nomadicmehul">
-  <img align="left" alt="Mehul's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://t.me/nomadicmehul">
-  <img align="left" alt="Mehul's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/nomadicmehul/">
-  <img align="left" alt="Mehul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/nomadicmehul">
-  <img align="left" alt="Mehul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://github.com/nomadicmehul">
-  <img align="left" alt="Mehul's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+# Hey, I'm Mehul Patel 👋
+### Senior DevOps Engineer · Docker Captain 🐳 · Google Developer Expert ☁️ · AWS Community Builder 🛠️
 
-<br><br>
+*Bridging the gap between traditional infrastructure and the AI-powered cloud-native future.*
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/8klMBnrnd6mrsWML10/giphy.gif" />
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nomadicmehul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomadicmehul/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/NomadicMehul)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nomadicmehul)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nomadicmehul)
 
-## I am [Mehul Patel](https://github.com/nomadicmehul/about) 👨🏻‍💻
-
-- 🥑 Open Source Advocate
-- 🎙️ Podcast Host - [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
-- 🛠️ [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&cb-cards.q=mehul&cb-cards.q_operator=AND)
-- 🐳 [Docker Captain](https://www.docker.com/captains/mehul-patel/)
-- 🌐 Founder at [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain)
-- 💡 Founder at [Open Source Weekend](https://twitter.com/OSWeekend)
-- 🌍 Organizer at [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/)
-- ☁️ Organizer at [Cloud Native Gandhinagar](https://community.cncf.io/cloud-native-gandhinagar/)
-- 🛡️ Organizer at [HashiCorp User Group Gandhinagar](https://www.meetup.com/gandhinagar-hashicorp-user-group/)
-- **Ex** [Mozilla Reps Council](https://www.mozilla.org/en-US/about/leadership/reps-council/)
-- **Ex** [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
-- **Ex** [Mozilla Reps Mentor](https://community.mozilla.org/de/groups/mozilla-reps-mentors/)
-- I'm currently looking for opportunities. I love to learn and contribute in all ways I can.
-
-<br />
-
-## 🛠️ Languages and Tools:
-
-<br />
-
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> 
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> 
-</a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a> 
-</a>
-<a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="50" height="50"/> </a> 
-<a href="https://www.redhat.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="50" height="50"/> </a>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> </a> 
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="50" height="50"/> </a> 
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="50" height="50"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> </a> 
-<a href="https://httpd.apache.org/git" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apache/apache-line-wordmark.svg" alt="apache" width="50" height="50"/> </a> 
-<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>  -->
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/> </a> </p>
+</div>
 
 ---
 
-## 📊 Some Statistics About Me
-![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomadicmehul&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<img align="right" alt="Coding GIF" src="https://camo.githubusercontent.com/f1ba0d26a1c7cdabebe6aefb07535f0e723ebb9e39dadb010bbdb2839331fa61/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f386b6c4d426e726e64366d7273574d4c31302f67697068792e676966" width="340" />
+
+## 🚀 About Me
+
+I'm a **Senior DevOps Engineer** based in Berlin with **500+ technical sessions** delivered across **25+ countries**. I specialize in cloud-native infrastructure, containerization, and AI-powered DevOps workflows — and I love turning complex systems into compelling stories on stage and in code.
+
+- 🐳 **Docker Captain** — one of ~150 globally recognized Docker experts
+- ☁️ **Google Developer Expert** — Google Cloud
+- 🛠️ **AWS Community Builder**
+- 🎙️ Podcast Host — [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
+- 🌐 Founder — [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) & [Open Source Weekend](https://twitter.com/OSWeekend)
+- 🏙️ Community Organizer — [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/) · [CNCF Cloud Native Gandhinagar](https://community.cncf.io/cloud-native-gandhinagar/) · [HashiCorp UG Gandhinagar](https://www.meetup.com/gandhinagar-hashicorp-user-group/)
+
+> *"From Docker containers to Vertex AI — I help teams ship faster, safer, and smarter."*
 
 ---
 
-<!--
-**nomadicmehul/nomadicmehul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 What I'm Working On
 
-Here are some ideas to get you started:
+| Project | Description |
+|---|---|
+| 🤖 **AI-Powered Self-Healing GKE** | Autonomous infrastructure agents that detect & fix cluster issues |
+| 🔒 **Docker Sandboxes for AI Agents** | Secure, isolated execution environments for agentic AI workflows |
+| 📦 **From Docker to Vertex** | Conference talk series bridging containerization & production ML |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & Infrastructure**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+**Dev & Automation**
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nomadicmehul&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&count_private=true&include_all_commits=true" alt="Mehul's GitHub Stats" height="180" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicmehul&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=nomadicmehul&theme=dark&hide_border=true&ring=bb2acf&fire=bb2acf&currStreakLabel=ffffff" alt="GitHub Streak" height="180" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+---
+
+<div align="center">
+
+*Open to exciting DevOps, Platform Engineering, and Cloud Architecture opportunities.*
+
+**Let's build something great together. 🚀**
+
+🌐 [nomadicmehul.github.io](https://nomadicmehul.github.io/)
+
+</div>
