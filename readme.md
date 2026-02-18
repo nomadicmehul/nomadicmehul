@@ -69,10 +69,10 @@ I'm a **Senior DevOps Engineer** based in Berlin with **500+ technical sessions*
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nomadicmehul&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&count_private=true&include_all_commits=true" alt="Mehul's GitHub Stats" height="180" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nomadicmehul&theme=nord_dark" alt="Mehul's GitHub Stats" height="180" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicmehul&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nomadicmehul&theme=nord_dark" alt="Top Languages" height="180" />
       </td>
     </tr>
     <tr>
