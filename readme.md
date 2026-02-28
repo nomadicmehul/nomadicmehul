@@ -99,6 +99,6 @@ I'm a **Senior DevOps Engineer** based in Berlin with **500+ technical sessions*
 
 **Let's build something great together. 🚀**
 
-🌐 [nomadicmehul.github.io](https://nomadicmehul.github.io/)
+🌐 [nomadicmehul.dev](https://nomadicmehul.dev/)
 
 </div>
