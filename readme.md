@@ -37,8 +37,8 @@ I'm a **Senior DevOps Engineer** based in Berlin with **500+ technical sessions*
 | Project | Description |
 |---|---|
 | 🤖 **AI-Powered Self-Healing GKE** | Autonomous infrastructure agents that detect & fix cluster issues |
-| 🔒 **Docker Sandboxes for AI Agents** | Secure, isolated execution environments for agentic AI workflows |
-| 📦 **From Docker to Vertex** | Conference talk series bridging containerization & production ML |
+| ⚡ **Dispatch** | Dispatch is an AI-powered CLI tool that solves GitHub issues in batch — creating branches, implementing fixes, and opening pull requests while you sleep.|
+| 📦 **Azure-MCP-Server** | Production-ready MCP server for Azure Cloud, Kubernetes (AKS), and Azure DevOps - 100% Read-Only |
 
 ---
 
