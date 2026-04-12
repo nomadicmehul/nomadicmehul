@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Mehul Patel" src="https://camo.githubusercontent.com/f1ba0d26a1c7cdabebe6aefb07535f0e723ebb9e39dadb010bbdb2839331fa61/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f386b6c4d426e726e64366d7273574d4c31302f67697068792e676966" width="280" />
+<img align="right" alt="Mehul Patel" src="https://camo.githubusercontent.com/f1ba0d26a1c7cdabebe6aefb07535f0e723ebb9e39dadb010bbdb2839331fa61/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f386b6c4d426e726e64366d7273574d4c31302f67697068792e676966" width="360" />
 
 I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ technical sessions** delivered across **25+ countries**, impacting **50,000+ developers**. I specialize in cloud-native infrastructure, containerization, and AI-powered DevOps workflows.
 
