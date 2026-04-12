@@ -108,14 +108,6 @@ I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ techni
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomadicmehul&theme=nord_dark" alt="GitHub Profile Details" width="720" />
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect
