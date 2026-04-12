@@ -54,7 +54,7 @@ I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ techni
 | 🤖 [**NightOps AI**](https://nightopsai.dev/) | Autonomous SRE agents that detect & fix cluster issues in real time |
 | ⚡ [**Dispatch**](https://dispatchai.dev/) | AI-powered CLI that solves GitHub issues in batch — branches, fixes, and PRs while you sleep |
 | 📦 [**Azure MCP Server**](https://github.com/nomadicmehul/Azure-MCP-Server) | Production-ready MCP server for Azure Cloud, Kubernetes (AKS), and Azure DevOps — 100% read-only |
-| 🧠 [**Hello GenAI**](https://github.com/nomadicmehul/Hello-GenAI) | Multi-language chatbot (Go, Python, Node.js, Rust) powered by local LLMs |
+| 🧠 [**Hello GenAI**](https://github.com/nomadicmehul/Hello-GenAI) | Multi-language chatbot (Go, Python, Node.js, Rust) powered by local LLMs using Docker Model Runner |
 | 📚 [**CloudCaptain**](https://github.com/nomadicmehul/CloudCaptain) | Comprehensive DevOps and cloud learning resources |
 
 ---
