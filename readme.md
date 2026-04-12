@@ -111,10 +111,9 @@ I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ techni
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nomadicmehul&theme=nord_dark" alt="GitHub Stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nomadicmehul&theme=nord_dark" alt="Top Languages" height="180" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nomadicmehul&theme=dark&hide_border=true&ring=bb2acf&fire=bb2acf&currStreakLabel=ffffff" alt="GitHub Streak" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nomadicmehul&theme=nord_dark" alt="GitHub Stats" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nomadicmehul&theme=nord_dark" alt="Top Languages" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nomadicmehul&theme=dark&hide_border=true&ring=bb2acf&fire=bb2acf&currStreakLabel=ffffff" alt="GitHub Streak" height="140" />
 </div>
 
 ---
