@@ -13,7 +13,7 @@
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nomadicmehul.dev/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nomadicmehul&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnomadicmehul.dev&count_bg=%236B5CE7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=WEBSITE+VISITS&edge_flat=true)](https://nomadicmehul.dev/)
+![Website Visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhits.dwyl.com%2Fnomadicmehul%2Fnomadicmehul.dev.json&query=%24.count&label=WEBSITE+VISITS&style=for-the-badge&color=blueviolet)
 
 </div>
 
