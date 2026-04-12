@@ -30,7 +30,8 @@ I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ techni
 - 🦊 **Ex Mozilla Reps Council Member**
 - 🎙️ Podcast Host — [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
 - 🌐 Founder — [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) & [Open Source Weekend](https://twitter.com/OSWeekend)
-- 🏙️ Community Organizer — [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/) · [CNCF Cloud Native Gandhinagar](https://community.cncf.io/cloud-native-gandhinagar/) · [HashiCorp UG Gandhinagar](https://www.meetup.com/gandhinagar-hashicorp-user-group/)
+- 🏙️ Community Organizer — [Grafana and Friends Berlin](https://www.meetup.com/grafana-and-friends-berlin/)
+- 🏙️ Ex Community Organizer — [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/) · [CNCF Cloud Native Gandhinagar](https://community.cncf.io/cloud-native-gandhinagar/) · [HashiCorp UG Gandhinagar](https://www.meetup.com/gandhinagar-hashicorp-user-group/)
 
 ---
 
