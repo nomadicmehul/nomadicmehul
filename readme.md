@@ -86,7 +86,8 @@ I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ techni
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-999999?style=for-the-badge&logo=nagios&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 **Dev & Automation**
 
