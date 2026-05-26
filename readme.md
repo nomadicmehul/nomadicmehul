@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Mehul Patel 👋
-### Senior DevOps Engineer · Docker Captain 🐳 · Google Developer Expert ☁️ · AWS Community Builder 🛠️
+### Senior DevOps Engineer · Docker Captain 🐳 · Google Developer Expert ☁️ · AWS Community Builder  🐳 
 
 *Building cloud-native by day, building communities by night — across 25+ countries and counting.*
 
