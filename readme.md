@@ -26,7 +26,7 @@ I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ techni
 
 - 🐳 **Docker Captain** — one of ~150 globally recognized Docker experts
 - ☁️ **Google Developer Expert** — Google Cloud
-- 🛠️ **AWS Community Builder** — Cloud Architecture & DevOps
+- 🛠️ **AWS Community Builder** — Container
 - 🔐 **Ex Auth0 Ambassador** — Auth0 by Okta
 - 🦊 **Ex Mozilla Reps Council Member**
 - 🎙️ Podcast Host — [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
