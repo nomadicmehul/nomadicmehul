@@ -2,7 +2,7 @@
 
 # Hey, I'm Mehul Patel 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+DevOps+Engineer;Docker+Captain;Google+Developer+Expert;AWS+Community+Builder;Claude+Ambassador)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=500&deletionSpeed=30&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+DevOps+Engineer;Docker+Captain;Google+Developer+Expert;AWS+Community+Builder;Claude+Ambassador)](https://git.io/typing-svg)
 
 *Building cloud-native by day, building communities by night — across 25+ countries and counting.*
 
@@ -28,7 +28,7 @@
 
 <img align="right" alt="Mehul Patel" src="https://camo.githubusercontent.com/f1ba0d26a1c7cdabebe6aefb07535f0e723ebb9e39dadb010bbdb2839331fa61/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f386b6c4d426e726e64366d7273574d4c31302f67697068792e676966" width="360" />
 
-I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ technical sessions** delivered across **25+ countries**, impacting **50,000+ developers**. I specialize in cloud-native infrastructure, containerization, and AI-powered DevOps workflows.
+I'm a **Senior DevOps Engineer**, **DevOps Team Lead**, and **Platform Engineer** based in **Berlin, Germany**, with **500+ technical sessions** delivered across **25+ countries**, impacting **50,000+ developers**. I specialize in cloud-native infrastructure, containerization, and AI-powered DevOps workflows. At heart, I'm a **DevRel** who loves talking about DevOps, open source, Claude, AI, and anything that makes tech exciting.
 
 **Credentials**
 - 🐳 **Docker Captain** — one of ~150 globally recognized Docker experts
