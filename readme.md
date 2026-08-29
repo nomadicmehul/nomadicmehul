@@ -1,9 +1,15 @@
 <div align="center">
 
 # Hey, I'm Mehul Patel 👋
-### Senior DevOps Engineer · Docker Captain 🐳 · Google Developer Expert ☁️ · AWS Community Builder  🐳 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=500&deletionSpeed=30&color=58A6FF&center=true&vCenter=true&width=600&lines=AIOps+Engineer;Developer+Advocate+-+Open+Source;Docker+Captain;Google+Developer+Expert;AWS+Community+Builder;Claude+Community+Ambassadors)](https://git.io/typing-svg)
 
 *Building cloud-native by day, building communities by night — across 25+ countries and counting.*
+
+[![Docker Captain](https://img.shields.io/badge/Docker_Captain-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/contributors/mehul-patel/)
+[![Google Developer Expert](https://img.shields.io/badge/Google_Developer_Expert-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://developers.google.com/community/experts)
+[![AWS Community Builder](https://img.shields.io/badge/AWS_Community_Builder-FF9900?style=for-the-badge&logoColor=white)](https://builder.aws.com/community/@nomadicmehul?tab=badges)
+[![Claude Community Ambassadors](https://img.shields.io/badge/Claude_Community_Ambassadors-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://www.anthropic.com/)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nomadicmehul)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomadicmehul/)
@@ -22,16 +28,20 @@
 
 <img align="right" alt="Mehul Patel" src="https://camo.githubusercontent.com/f1ba0d26a1c7cdabebe6aefb07535f0e723ebb9e39dadb010bbdb2839331fa61/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f386b6c4d426e726e64366d7273574d4c31302f67697068792e676966" width="360" />
 
-I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ technical sessions** delivered across **25+ countries**, impacting **50,000+ developers**. I specialize in cloud-native infrastructure, containerization, and AI-powered DevOps workflows.
+I'm a **Senior DevOps Engineer**, **DevOps Team Lead**, and **Platform Engineer** based in **Berlin, Germany**, with **500+ technical sessions** delivered across **25+ countries**, impacting **50,000+ developers**. I specialize in cloud-native infrastructure, containerization, and AI-powered DevOps workflows. At heart, I'm a **DevRel** who loves talking about DevOps, open source, Claude, AI, and anything that makes tech exciting.
 
-- 🐳 **Docker Captain** — one of ~150 globally recognized Docker experts
-- ☁️ **Google Developer Expert** — Google Cloud
-- 🛠️ **AWS Community Builder** — Container
-- 🔐 **Ex Auth0 Ambassador** — Auth0 by Okta
-- 🦊 **Ex Mozilla Reps Council Member**
+**Credentials**
+- <img src="https://img.shields.io/badge/--2496ED?style=flat-square&logo=docker&logoColor=white" height="20" alt="Docker" style="vertical-align:middle"/> **Docker Captain** — one of ~150 globally recognized Docker experts
+- <img src="https://img.shields.io/badge/--4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="20" alt="Google Cloud" style="vertical-align:middle"/> **Google Developer Expert** — Google Cloud
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="16" alt="AWS" style="vertical-align:middle"/> **AWS Community Builder** — Container
+- <img src="https://img.shields.io/badge/--D97757?style=flat-square&logo=claude&logoColor=white" height="20" alt="Claude" style="vertical-align:middle"/> **Claude Community Ambassadors** — Anthropic
+- 🔐 Ex Auth0 Ambassador — Auth0 by Okta
+- 🦊 Ex Mozilla Reps Council Member
+
+**Community**
 - 🎙️ Podcast Host — [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
 - 🌐 Founder — [CloudCaptain](https://cloudcaptain.io/) & [Open Source Weekend](https://twitter.com/OSWeekend)
-- 🏙️ Community Organizer — [Grafana and Friends Berlin](https://www.meetup.com/grafana-and-friends-berlin/)
+- 🏙️ Community Organizer — [Grafana and Friends Berlin](https://www.meetup.com/grafana-and-friends-berlin/) · [Claude Community Events Berlin](https://luma.com/claudecommunity)
 - 🏙️ Ex Community Organizer — [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/) · [CNCF Cloud Native Gandhinagar](https://community.cncf.io/cloud-native-gandhinagar/) · [HashiCorp UG Gandhinagar](https://www.meetup.com/gandhinagar-hashicorp-user-group/)
 
 ---
@@ -102,6 +112,7 @@ I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ techni
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 **🌱 Currently Learning**
 
