@@ -1,9 +1,15 @@
 <div align="center">
 
 # Hey, I'm Mehul Patel 👋
-### Senior DevOps Engineer · Docker Captain 🐳 · Google Developer Expert ☁️ · AWS Community Builder <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="16" alt="AWS"/> · Claude Ambassador <img src="https://img.shields.io/badge/--D97757?style=flat-square&logo=claude&logoColor=white" height="20" alt="Claude"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+DevOps+Engineer;Docker+Captain;Google+Developer+Expert;AWS+Community+Builder;Claude+Ambassador)](https://git.io/typing-svg)
 
 *Building cloud-native by day, building communities by night — across 25+ countries and counting.*
+
+[![Docker Captain](https://img.shields.io/badge/Docker_Captain-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/captains/)
+[![Google Developer Expert](https://img.shields.io/badge/Google_Developer_Expert-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://developers.google.com/community/experts)
+[![AWS Community Builder](https://img.shields.io/badge/AWS_Community_Builder-FF9900?style=for-the-badge&logoColor=white)](https://aws.amazon.com/developer/community/community-builders/)
+[![Claude Ambassador](https://img.shields.io/badge/Claude_Ambassador-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://www.anthropic.com/)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nomadicmehul)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomadicmehul/)
@@ -24,12 +30,15 @@
 
 I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ technical sessions** delivered across **25+ countries**, impacting **50,000+ developers**. I specialize in cloud-native infrastructure, containerization, and AI-powered DevOps workflows.
 
+**Credentials**
 - 🐳 **Docker Captain** — one of ~150 globally recognized Docker experts
 - ☁️ **Google Developer Expert** — Google Cloud
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="16" alt="AWS"/> **AWS Community Builder** — Container
-- <img src="https://img.shields.io/badge/--D97757?style=flat-square&logo=claude&logoColor=white" height="20" alt="Claude"/> **Claude Ambassador** — Anthropic
-- 🔐 **Ex Auth0 Ambassador** — Auth0 by Okta
-- 🦊 **Ex Mozilla Reps Council Member**
+- 📦 **AWS Community Builder** — Container
+- ✨ **Claude Ambassador** — Anthropic
+- 🔐 Ex Auth0 Ambassador — Auth0 by Okta
+- 🦊 Ex Mozilla Reps Council Member
+
+**Community**
 - 🎙️ Podcast Host — [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
 - 🌐 Founder — [CloudCaptain](https://cloudcaptain.io/) & [Open Source Weekend](https://twitter.com/OSWeekend)
 - 🏙️ Community Organizer — [Grafana and Friends Berlin](https://www.meetup.com/grafana-and-friends-berlin/) · [Claude Community Events Berlin](https://luma.com/claudecommunity)
@@ -103,6 +112,7 @@ I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ techni
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 **🌱 Currently Learning**
 
