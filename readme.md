@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Mehul Patel 👋
-### Senior DevOps Engineer · Docker Captain 🐳 · Google Developer Expert ☁️ · AWS Community Builder  🐳 
+### Senior DevOps Engineer · Docker Captain 🐳 · Google Developer Expert ☁️ · AWS Community Builder 🐳 · Claude Ambassador ✨
 
 *Building cloud-native by day, building communities by night — across 25+ countries and counting.*
 
@@ -27,11 +27,12 @@ I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ techni
 - 🐳 **Docker Captain** — one of ~150 globally recognized Docker experts
 - ☁️ **Google Developer Expert** — Google Cloud
 - 🛠️ **AWS Community Builder** — Container
+- ✨ **Claude Ambassador** — Anthropic
 - 🔐 **Ex Auth0 Ambassador** — Auth0 by Okta
 - 🦊 **Ex Mozilla Reps Council Member**
 - 🎙️ Podcast Host — [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
 - 🌐 Founder — [CloudCaptain](https://cloudcaptain.io/) & [Open Source Weekend](https://twitter.com/OSWeekend)
-- 🏙️ Community Organizer — [Grafana and Friends Berlin](https://www.meetup.com/grafana-and-friends-berlin/)
+- 🏙️ Community Organizer — [Grafana and Friends Berlin](https://www.meetup.com/grafana-and-friends-berlin/) · [Claude Community Events Berlin](https://luma.com/claudecommunity)
 - 🏙️ Ex Community Organizer — [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/) · [CNCF Cloud Native Gandhinagar](https://community.cncf.io/cloud-native-gandhinagar/) · [HashiCorp UG Gandhinagar](https://www.meetup.com/gandhinagar-hashicorp-user-group/)
 
 ---
