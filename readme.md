@@ -52,7 +52,7 @@ I'm a **Senior DevOps Engineer**, **DevOps Team Lead**, and **Platform Engineer*
 
 | 🎤 500+ Sessions | 🌍 25+ Countries | 👥 50,000+ Developers | 🧑‍🏫 305+ Mentored (4.9/5) |
 |:-:|:-:|:-:|:-:|
-| **100+ Conferences** | **1,000+ Workshop Hours** | **Master's in CS** | **Fluent: EN · HI · GU** |
+| **100+ Conferences** | **1,000+ Workshop Hours** | **Master's in CS** | **Fluent: EN · HI · GU · MR** · **Learning: DE (A1)** |
 
 </div>
 
