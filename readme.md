@@ -9,7 +9,7 @@
 [![Docker Captain](https://img.shields.io/badge/Docker_Captain-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/contributors/mehul-patel/)
 [![Google Developer Expert](https://img.shields.io/badge/Google_Developer_Expert-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://developers.google.com/community/experts)
 [![AWS Community Builder](https://img.shields.io/badge/AWS_Community_Builder-FF9900?style=for-the-badge&logoColor=white)](https://builder.aws.com/community/@nomadicmehul?tab=badges)
-[![Claude Community Ambassadors](https://img.shields.io/badge/Claude_Community_Ambassadors-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://www.anthropic.com/)
+[![Claude Community Ambassadors](https://img.shields.io/badge/Claude_Community_Ambassadors-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/community/ambassadors)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nomadicmehul)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomadicmehul/)
