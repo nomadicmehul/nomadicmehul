@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Mehul Patel 👋
-### Senior DevOps Engineer · Docker Captain 🐳 · Google Developer Expert ☁️ · AWS Community Builder 🐳 · Claude Ambassador ✨
+### Senior DevOps Engineer · Docker Captain 🐳 · Google Developer Expert ☁️ · AWS Community Builder <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="16" alt="AWS"/> · Claude Ambassador <img src="https://img.shields.io/badge/--D97757?style=flat-square&logo=claude&logoColor=white" height="20" alt="Claude"/>
 
 *Building cloud-native by day, building communities by night — across 25+ countries and counting.*
 
@@ -26,8 +26,8 @@ I'm a **Senior DevOps Engineer** based in **Berlin, Germany** with **500+ techni
 
 - 🐳 **Docker Captain** — one of ~150 globally recognized Docker experts
 - ☁️ **Google Developer Expert** — Google Cloud
-- 🛠️ **AWS Community Builder** — Container
-- ✨ **Claude Ambassador** — Anthropic
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="16" alt="AWS"/> **AWS Community Builder** — Container
+- <img src="https://img.shields.io/badge/--D97757?style=flat-square&logo=claude&logoColor=white" height="20" alt="Claude"/> **Claude Ambassador** — Anthropic
 - 🔐 **Ex Auth0 Ambassador** — Auth0 by Okta
 - 🦊 **Ex Mozilla Reps Council Member**
 - 🎙️ Podcast Host — [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
